@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkslateblue;
+}
+.logoing{
+    width: 75px;
+    height: 75px;
+    display: block;
+    border-radius: 50%;
+
+}
