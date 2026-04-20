@@ -9,5 +9,11 @@
     height: 75px;
     display: block;
     border-radius: 50%;
-
 }
+body{color: blueviolet;
+background-color: blue;
+margin: 0;
+padding: 0;
+line-height: 1.0;
+}
+
