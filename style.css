@@ -1,7 +1,13 @@
-h1{
+header {
+        background-color: #af4c98;
+        color: white;
+        box-shadow: 0 4px 6px rgba(red, green, blue, alpha0.1); 
+        padding: 10px 0;
+        text-align: center;
+}
+    header h1{
     display: flex;
     justify-content: space-between;
-    background-color: #40e0d0;
     margin-top: 30px;
     font-size: xx-large;
     font-style: italic;
@@ -24,5 +30,16 @@ padding: 0;
 line-height: 1;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
+.collage{
+    column-count: 2;
+    column-gap: 10px;
+    max-width: 700px;
+    margin: auto;
+}
+.collage img{
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
 
