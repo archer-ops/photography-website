@@ -1,5 +1,5 @@
 header {
-        background-color: #af4c98;
+        background-color: grey;
         color: white;
         box-shadow: 0 4px 6px rgba(red, green, blue, alpha0.1); 
         padding: 10px 0;
@@ -63,7 +63,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-radius: 8px;
 }
 section{
-            background-color: gray;
+            background-color: rgb(128, 128, 128);
             border-radius: 8px;
             margin: auto;
             box-shadow: 0 2px 10 px rgba(0,0,0, alpha0.1)
