@@ -11,11 +11,11 @@ h1{
     align-items: center;
 }
 .logoing{
+background-color: #f5f5f5;
     width: 85px;
     height: 85px;
     display: block;
     border-radius: 50%;
-    background-color: goldenrod;
 }
 body{color: #f5f5f5;
 background-color: #00ffff;
