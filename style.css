@@ -65,7 +65,8 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 section{
             background-color: rgb(128, 128, 128);
             border-radius: 8px;
-            margin: auto;
+            margin: 30px auto;
+            max-width: 1000px;
             box-shadow: 0 2px 10 px rgba(0,0,0, alpha0.1)
             padding: 24px;
             transition: box-shadow 0.3s ease;
@@ -109,6 +110,14 @@ section{
             }
                 form button:hover{
                     background-color: #0056b3;
+                }
+                .photographer-photo{
+                    width: 600px;
+                    height: auto
+                    displat;block ;
+                    margin: 20px auto;
+                    border-radius: 10px;
+                    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
                 }
                 
 
