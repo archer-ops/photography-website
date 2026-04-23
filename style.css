@@ -112,10 +112,10 @@ section{
                     background-color: #0056b3;
                 }
                 .photographer-photo{
-                    width: 600px;
+                    width: 900px;
                     height: auto
                     displat;block ;
-                    margin: 20px auto;
+                    margin: 30px auto;
                     border-radius: 10px;
                     transition: cubic-bezier(0.075, 0.82, 0.165, 1);
                 }
@@ -123,5 +123,5 @@ section{
                     transform: scale(1.1);
                     filter: brightness(70%);
                 }
-                
+
 
